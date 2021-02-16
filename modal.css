@@ -535,7 +535,7 @@ footer {
     .hero-content {
         background: #fff;
         color: #000;
-        padding: 20px;
+        padding: 0;
     }
 
     .hero-content::after {
@@ -622,7 +622,7 @@ footer {
 
 @media screen and (max-width: 600px) {
     .hero-headline {
-        font-size: 35px;
+        font-size: 30px;
     }
 
     .hero-text {
