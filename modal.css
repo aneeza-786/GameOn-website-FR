@@ -620,21 +620,17 @@ footer {
     font-size: 12px;
 }
 
-@media screen and (max-width: 600px)
-{
-    .hero-headline
-    {
+@media screen and (max-width: 600px) {
+    .hero-headline {
         font-size: 35px;
     }
 
-    .hero-text
-    {
+    .hero-text {
         width: auto;
         font-size: 15px;
     }
 
-    .success-msg
-    {
+    .success-msg {
         width: auto;
         left: 0%;
         padding: 3rem 1rem 1rem 0rem;
